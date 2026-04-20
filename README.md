@@ -6,11 +6,19 @@ This project focuses on classifying discourse elements in student essays using m
 The project is based on the **Feedback Prize 2021 dataset** and demonstrates an end-to-end machine learning pipeline including data preprocessing, feature engineering, model training, and evaluation.
 
 ---
+## 📥 Dataset Access
 
-## 📊 Dataset
-- Source: Kaggle – Feedback Prize 2021  
-- Data: Student essays with labeled discourse segments  
-- Target Variable: `discourse_type`
+The dataset used in this project is publicly available on Kaggle:
+
+👉 https://www.kaggle.com/competitions/feedback-prize-2021
+
+Due to size limitations, the dataset is not included in this repository.
+
+### How to Use
+1. Download the dataset from Kaggle
+2. Extract the files
+3. Place them in your working directory
+4. Update file paths in the notebook if needed
 
 ### Discourse Classes
 - Lead  
@@ -19,7 +27,8 @@ The project is based on the **Feedback Prize 2021 dataset** and demonstrates an 
 - Counterclaim  
 - Rebuttal  
 - Evidence  
-- Concluding Statement  
+- Concluding Statement
+- Target Variable: `discourse_type`
 
 ---
 
