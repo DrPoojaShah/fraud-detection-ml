@@ -1,0 +1,13 @@
+## 📥 Dataset Access
+
+The dataset used in this project is available on Kaggle:
+
+👉 https://www.kaggle.com/competitions/feedback-prize-2021
+
+Due to size limitations, the dataset is not included in this repository.
+
+### Steps to Use
+1. Download dataset from Kaggle
+2. Extract files
+3. Place in working directory
+4. Update file paths in notebook if needed
